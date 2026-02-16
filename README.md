@@ -1,16 +1,47 @@
-# React + Vite
+# 🍔 React Food Delivery Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 **Live Demo:** https://priyanshu-food-delivery.netlify.app/  
+📂 **GitHub Repository:** https://github.com/24Priyanshu/food-delivery  
 
-Currently, two official plugins are available:
+A fully functional and responsive Food Delivery web application built using **React** and **Redux Toolkit**.  
+Users can browse dishes, filter by categories, search items, manage their cart, and place orders with dynamic price calculation and real-time updates.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🍽️ Food listing with category filtering  
+- 🔍 Live search functionality  
+- 🛒 Add to cart functionality  
+- ➕ Increase / Decrease item quantity  
+- ❌ Remove single item from cart  
+- 🧮 Dynamic subtotal, tax & total calculation  
+- 📦 Slide-in cart drawer  
+- 🔔 Toast notifications using React Toastify  
+- 📱 Fully responsive UI  
+- 🚀 Deployed on Netlify  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- React.js  
+- Redux Toolkit  
+- JavaScript (ES6+)  
+- Tailwind CSS  
+- React Toastify  
+- React Icons  
+- Vite  
+- Netlify  
+
+---
+
+## 🧠 What I Learned
+
+- Managing global state using Redux Toolkit  
+- Handling duplicate product logic in cart  
+- Conditional rendering in React  
+- Component-based architecture  
+- Responsive design using Tailwind CSS  
+- Git & GitHub workflow  
+- Deploying projects using Netlify  
